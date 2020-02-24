@@ -70,6 +70,10 @@
 			<td colspan="2" bgcolor="#993333"></td>
 		</tr>
 		<tr>
+			<td> <a href="Lectures/Lecture-5.pdf"><b>Lecture-6</b></a>: Decision Trees revisited; K-Nearest Neighbor algorithm; Project details</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
 			<td> <a href="Lectures/Lecture-5.pdf"><b>Lecture-5</b></a>: Accuracy metrics; Linear regression and Logistic regression; Decision Trees; Case Study-2</td>
 			<td>&nbsp;</td>
 		</tr>

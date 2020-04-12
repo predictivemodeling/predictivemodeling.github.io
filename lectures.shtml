@@ -70,6 +70,22 @@
 			<td colspan="2" bgcolor="#993333"></td>
 		</tr>
 		<tr>
+			<td> <a href="Lectures/Lecture-11.pdf"><b>Lecture-11</b></a>: Discussion of exam-1 solutions; <b>Unsupervised Learning;</b> <b>K-means algorithm</b>; Class exercises</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td> <a href="Lectures/Lecture-9.pdf"><b>Lecture-9</b></a>: <b>2-slide Project Presentations </b>; Class Exercises; <b>Association Rules;</b> K-Nearest Neighbor algorithm</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td> <a href="Lectures/Lecture-8.pdf"><b>Lecture-8</b></a>: <b>Case Study-3 presentations;</b> <b>Frequent Itemsets</b>; <b>Apriori Algorithm</b> Class exercises</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td> <a href="Lectures/Lecture-7.pdf"><b>Lecture-7</b></a>: Introduction to Natural Language Processing; <b>text tokenization; text normalization such as lowercasing, stemming; part-of-speech tagging; Named entity recognition; Sentiment analysis; Topic modeling; Word embeddings</b> </td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
 			<td> <a href="Lectures/Lecture-6.pdf"><b>Lecture-6</b></a>: Decision Trees revisited; <b>Case Study-2 presentations;</b> K-Nearest Neighbor algorithm; <b>Project details</b></td>
 			<td>&nbsp;</td>
 		</tr>

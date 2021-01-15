@@ -1,7 +1,7 @@
 
 <html>
 <head>
-<title>95718 MGMT-4963-02 (95631 MGMT-6160-02) Applied Analytics and Predictive Modeling Spring 2020 </title>
+<title>44878 MGMT-4160-01/43373 MGMT-6160-01 Applied Analytics and Predictive Modeling Spring 2021 </title>
 <link rel"SHORTCUT ICON" href="rpilogo.png">
 <link href="lyds.css" rel="stylesheet"/>
 </head>
@@ -15,12 +15,14 @@
 	<td width="100%">
 		<h1 align="left"> <br>
 		<b>Applied Analytics and Predictive Modeling </b> <br>
-		<b>95718 MGMT-4963-02 (95631 MGMT-6160-02)</b></h1>
+		<b>44878 MGMT-4160-01/43373 MGMT-6160-01</b></h1>
 	
 		<h2 align="left"> Rensselaer Polytechnic Institute </h2>
 		<h2 align="left"> Instructor: <a href="https://lmanikon.github.io/">Lydia Manikonda</a></h2>
-		<h2 align="left"> Class: Mondays 3:00 PM - 5:50 PM</h2>
-		<h2 align="left"> Semester: Spring 2020 </h2>
+		<h2 align="left"> Class: Mondays and Thursdays 6:55 PM - 8:15 PM </h2>
+		<h2 align="left"> Location: PITTS 4206 (In-person) and Webex </h2>
+		<h2 align="left"> Semester: Spring 2021 </h2>
+
 	</td>
 </tr>
 
@@ -68,46 +70,6 @@
 		</tr>
 		<tr>
 			<td colspan="2" bgcolor="#993333"></td>
-		</tr>
-		<tr>
-			<td> <a href="Lectures/Lecture-13.pdf"><b>Lecture-13</b></a>: Instructions for the project/exam submissions; Class statistics; <b>Recap;</b> Celebrating graduates</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td> <a href="Lectures/Lecture-11.pdf"><b>Lecture-11</b></a>: Discussion of exam-1 solutions; <b>Unsupervised Learning;</b> <b>K-means algorithm</b>; Class exercises</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td> <a href="Lectures/Lecture-9.pdf"><b>Lecture-9</b></a>: <b>2-slide Project Presentations </b>; Class Exercises; <b>Association Rules;</b> K-Nearest Neighbor algorithm</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td> <a href="Lectures/Lecture-8.pdf"><b>Lecture-8</b></a>: <b>Case Study-3 presentations;</b> <b>Frequent Itemsets</b>; <b>Apriori Algorithm</b> Class exercises</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td> <a href="Lectures/Lecture-7.pdf"><b>Lecture-7</b></a>: Introduction to Natural Language Processing; <b>text tokenization; text normalization such as lowercasing, stemming; part-of-speech tagging; Named entity recognition; Sentiment analysis; Topic modeling; Word embeddings</b> </td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td> <a href="Lectures/Lecture-6.pdf"><b>Lecture-6</b></a>: Decision Trees revisited; <b>Case Study-2 presentations;</b> K-Nearest Neighbor algorithm; <b>Project details</b></td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td> <a href="Lectures/Lecture-5.pdf"><b>Lecture-5</b></a>: Accuracy metrics; Linear regression and Logistic regression; Decision Trees; <b>Case Study-2</b></td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td> <a href="Lectures/Lecture-4.pdf"><b>Lecture-4</b></a>: <b>Case Study-1 presentations;</b> Linear regression and Logistic regression</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td> <a href="Lectures/Lecture-3.pdf"><b>Lecture-3</b></a>: Aggregation; Sampling; Other Preprocessing Techniques; Dimensionality Reduction; <b>Case Study-1</b> </td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td> <a href="Lectures/Lecture-2.pdf"><b>Lecture-2</b></a>: Data Preprocessing using Numpy, Pandas and Seaborn; Data Mining basics </td>
-			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td> <a href="Lectures/Lecture-1.pdf"><b>Lecture-1</b></a>: Introduction to Data Mining and Python Basics </td>

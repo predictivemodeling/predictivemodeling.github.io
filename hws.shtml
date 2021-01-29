@@ -22,7 +22,6 @@
 		<h2 align="left"> Class: Mondays and Thursdays 6:55 PM - 8:15 PM </h2>
 		<h2 align="left"> Location: PITTS 4206 (In-person) and Webex </h2>
 		<h2 align="left"> Semester: Spring 2021 </h2>
-
 	</td>
 </tr>
 
@@ -55,7 +54,7 @@
 					</td>
 					<td width="15%">
 						<p class="headlink">
-							<a href="hws.shtml"> <b>Homeworks </b></a>
+							<a href="hws.shtml"> <b>Notebooks </b></a>
 						</p>
 					</td>
 					<td width="14%">
@@ -73,8 +72,7 @@
 		</tr>
 		
 		<tr>
-			<td> We will use Piazza for our class discussions, announcements and for sharing lecture materials. </td>
-			<td>&nbsp;</td>
+			<td>Lecture-2<a href="notebooks/Lecture_2.ipynb">class exercises </a></td>
 		</tr>
 		
 		<tr>

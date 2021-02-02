@@ -71,7 +71,11 @@
 		<tr>
 			<td colspan="2" bgcolor="#993333"></td>
 		</tr>
-		
+		 
+		<tr>
+			<td> <a href="https://rensselaer.webex.com/rensselaer/ldr.php?RCID=8b2234d4afbc4de9893c2ef9590bb1cd"><b>Lecture-3 Recording</b></a> Check Piazza announcements for more details. </td>
+			<td>&nbsp;</td>
+		</tr>
 		
 		<tr>
 			<td> <a href="Lectures/Lecture-3.pdf"><b>Lecture-3</b></a>: Data preprocessing, Pandas </td>

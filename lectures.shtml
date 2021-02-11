@@ -72,7 +72,14 @@
 			<td colspan="2" bgcolor="#993333"></td>
 		</tr>
 		 
-		
+		<tr>
+			<td> <a href="Lectures/Lecture-6.pdf"><b>Lecture-6</b></a>: Data Quality, Eigenvalues, Eigenvectors, Principal Component Analysis </td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td> <a href="Lectures/Lecture-5.pdf"><b>Lecture-5</b></a>: Case Study-1 Description; Data Quality </td>
+			<td>&nbsp;</td>
+		</tr>
 		<tr>
 			<td> <a href="Lectures/Lecture-4.pdf"><b>Lecture-4</b></a>: Data preprocessing, Seaborn for visualization, in-class case study </td>
 			<td>&nbsp;</td>
